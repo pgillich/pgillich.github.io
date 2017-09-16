@@ -1,3 +1,4 @@
 [submodule "ESP4S2"]
 	path = ESP4S2
 	url = https://github.com/pgillich/ESP4S2.git
+	branch = scratchx
